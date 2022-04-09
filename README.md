@@ -4,8 +4,10 @@ Its main components are the three oscillators and the low pass resonant filter.
 
 It's possible to interact with each part of the instrument: the three oscillators have a controllable base octave and can be detuned with the respective sliders, you can also choose the waveform of each oscillator.
 The sound can also be modified with the pitch (of all 3 oscs) and mod (controls the frequency of the modulating LFO) wheels.
+
 The external input slider (if overload is set at 1) controls the amplitude of the output signal of the synth that gets fed back intothe filter to create a distortion effect (overload).
 You can control the amount and type of noise via the NoiseMaker slider (choice between white and pink noise).
+
 The filter properties can also be modified as well as the Attack, Decay, Sustain and Release of the sound generated.
 With the Contour Amount slider you can choose to turn on the ADSR envelope for the cutoff frequency and select its amount.
 
